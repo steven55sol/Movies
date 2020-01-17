@@ -5,7 +5,7 @@
 }
 
 body{
-    background: #fff;
+    background:#fff;
 }
 
 header{
@@ -21,12 +21,17 @@ header{
     position: absolute;
     left: 83px;
     font-family: sans-serif;
+    top: 18px;
 }
 
 .icono{
     position: absolute;
     left: 30px;
     width: 50px;
+}
+
+a{
+    color: white;
 }
 
 /* Menu */
